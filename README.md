@@ -419,7 +419,7 @@ LeetCode
 |2|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./shell/ValidPhoneNumbers.sh)|Easy|
 |1|[Word Frequency](https://leetcode.com/problems/word-frequency/)| [Bash](./shell/WordFrequency.sh)|Medium|
 
-### LintCode    
+### LintCode Algorithm
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
